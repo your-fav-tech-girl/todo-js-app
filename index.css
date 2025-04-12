@@ -1,0 +1,16 @@
+[data-name] {
+  color: red;
+}
+
+.form-input {
+}
+
+button {
+  margin-top: 8px;
+}
+
+.display-todos {
+  span.delete {
+    cursor: pointer;
+  }
+}
